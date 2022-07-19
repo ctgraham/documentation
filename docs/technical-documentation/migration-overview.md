@@ -42,7 +42,7 @@ Visit the [Migrate API](migration-migrate-api.md) migration documentation sectio
 
 ### Islandora Workbench
 
-Why use the Migrate API?
+Why use Islandora Workbench?
 
 - More tailored for end users with less technical knowledge or limited server access.
 - Uses Islandora’s REST API
